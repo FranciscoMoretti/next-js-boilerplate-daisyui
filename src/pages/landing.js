@@ -16,9 +16,7 @@ export default function Landing() {
       {/* <main data-theme="cupcake" className="bg-base-100"> */}
       {/* <main data-theme="garden" className="bg-base-100"> */}
       <main data-theme="bumblebee" className="bg-base-100">
-        <section className="">
-          <HeroImageOverlay />
-        </section>
+        <HeroImageOverlay />
         <Feature2 />
         <Pricing1 />
         <Feature3 />

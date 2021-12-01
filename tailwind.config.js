@@ -1,3 +1,5 @@
+/* eslint-disable global-require */
+
 module.exports = {
   mode: 'jit',
   purge: {
@@ -45,5 +47,6 @@ module.exports = {
     },
   },
   variants: {},
-  plugins: [],
+  plugins: [require('daisyui')],
 };
+/* eslint-enable global-require */

@@ -13,9 +13,10 @@ export default function Landing() {
   return (
     <>
       {/* <main data-theme="light" className="bg-base-100"> */}
-      {/* <main data-theme="cupcake" className="bg-base-100"> */}
+      {/* <main data-theme="dark" className="bg-base-100"> */}
       {/* <main data-theme="garden" className="bg-base-100"> */}
-      <main data-theme="bumblebee" className="bg-base-100">
+      <main data-theme="si_recreacion" className="bg-base-100">
+        {/* <main data-theme="bumblebee" className="bg-base-100"> */}
         <HeroImageOverlay />
         <Feature2 />
         <Pricing1 />

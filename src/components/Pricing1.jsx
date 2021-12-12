@@ -5,7 +5,7 @@ export class Pricing1 extends Component {
 
   render() {
     return (
-      <section className="text-primary-content body-font overflow-hidden">
+      <section className="text-base-content body-font overflow-hidden">
         <div className="container px-5 py-24 mx-auto">
           <div className="flex flex-col text-center w-full mb-20">
             <h1 className="sm:text-4xl text-3xl font-medium title-font mb-2 text-gray-900">
@@ -24,8 +24,8 @@ export class Pricing1 extends Component {
                 <h1 className="text-5xl text-gray-900 pb-4 mb-4 border-b border-gray-200 leading-none">
                   Agua
                 </h1>
-                <p className="flex items-center text-primary-content mb-2">
-                  <span className="w-4 h-4 mr-2 inline-flex items-center justify-center bg-primary text-primary-content rounded-full flex-shrink-0">
+                <p className="flex items-center text-base-content mb-2">
+                  <span className="w-4 h-4 mr-2 inline-flex items-center justify-center bg-primary text-base-content rounded-full flex-shrink-0">
                     <svg
                       fill="none"
                       stroke="currentColor"
@@ -40,8 +40,8 @@ export class Pricing1 extends Component {
                   </span>
                   Vexillologist pitchfork
                 </p>
-                <p className="flex items-center text-primary-content mb-2">
-                  <span className="w-4 h-4 mr-2 inline-flex items-center justify-center bg-primary text-primary-content rounded-full flex-shrink-0">
+                <p className="flex items-center text-base-content mb-2">
+                  <span className="w-4 h-4 mr-2 inline-flex items-center justify-center bg-primary text-base-content rounded-full flex-shrink-0">
                     <svg
                       fill="none"
                       stroke="currentColor"
@@ -56,8 +56,8 @@ export class Pricing1 extends Component {
                   </span>
                   Tumeric plaid portland
                 </p>
-                <p className="flex items-center text-primary-content mb-6">
-                  <span className="w-4 h-4 mr-2 inline-flex items-center justify-center bg-primary text-primary-content rounded-full flex-shrink-0">
+                <p className="flex items-center text-base-content mb-6">
+                  <span className="w-4 h-4 mr-2 inline-flex items-center justify-center bg-primary text-base-content rounded-full flex-shrink-0">
                     <svg
                       fill="none"
                       stroke="currentColor"
@@ -99,8 +99,8 @@ export class Pricing1 extends Component {
                 <h1 className="text-5xl text-gray-900 leading-none flex items-center pb-4 mb-4 border-b border-gray-200">
                   Tematica
                 </h1>
-                <p className="flex items-center text-primary-content mb-2">
-                  <span className="w-4 h-4 mr-2 inline-flex items-center justify-center bg-primary text-primary-content rounded-full flex-shrink-0">
+                <p className="flex items-center text-base-content mb-2">
+                  <span className="w-4 h-4 mr-2 inline-flex items-center justify-center bg-primary text-base-content rounded-full flex-shrink-0">
                     <svg
                       fill="none"
                       stroke="currentColor"
@@ -115,8 +115,8 @@ export class Pricing1 extends Component {
                   </span>
                   Vexillologist pitchfork
                 </p>
-                <p className="flex items-center text-primary-content mb-2">
-                  <span className="w-4 h-4 mr-2 inline-flex items-center justify-center bg-primary text-primary-content rounded-full flex-shrink-0">
+                <p className="flex items-center text-base-content mb-2">
+                  <span className="w-4 h-4 mr-2 inline-flex items-center justify-center bg-primary text-base-content rounded-full flex-shrink-0">
                     <svg
                       fill="none"
                       stroke="currentColor"
@@ -131,8 +131,8 @@ export class Pricing1 extends Component {
                   </span>
                   Tumeric plaid portland
                 </p>
-                <p className="flex items-center text-primary-content mb-2">
-                  <span className="w-4 h-4 mr-2 inline-flex items-center justify-center bg-primary text-primary-content rounded-full flex-shrink-0">
+                <p className="flex items-center text-base-content mb-2">
+                  <span className="w-4 h-4 mr-2 inline-flex items-center justify-center bg-primary text-base-content rounded-full flex-shrink-0">
                     <svg
                       fill="none"
                       stroke="currentColor"
@@ -147,8 +147,8 @@ export class Pricing1 extends Component {
                   </span>
                   Hexagon neutra unicorn
                 </p>
-                <p className="flex items-center text-primary-content mb-2">
-                  <span className="w-4 h-4 mr-2 inline-flex items-center justify-center bg-primary text-primary-content rounded-full flex-shrink-0">
+                <p className="flex items-center text-base-content mb-2">
+                  <span className="w-4 h-4 mr-2 inline-flex items-center justify-center bg-primary text-base-content rounded-full flex-shrink-0">
                     <svg
                       fill="none"
                       stroke="currentColor"
@@ -163,8 +163,8 @@ export class Pricing1 extends Component {
                   </span>
                   Vexillologist pitchfork
                 </p>
-                <p className="flex items-center text-primary-content mb-6">
-                  <span className="w-4 h-4 mr-2 inline-flex items-center justify-center bg-primary text-primary-content rounded-full flex-shrink-0">
+                <p className="flex items-center text-base-content mb-6">
+                  <span className="w-4 h-4 mr-2 inline-flex items-center justify-center bg-primary text-base-content rounded-full flex-shrink-0">
                     <svg
                       fill="none"
                       stroke="currentColor"
@@ -206,8 +206,8 @@ export class Pricing1 extends Component {
                 <h1 className="text-5xl text-gray-900 leading-none flex items-center pb-4 mb-4 border-b border-gray-200">
                   Tradicional
                 </h1>
-                <p className="flex items-center text-primary-content mb-2">
-                  <span className="w-4 h-4 mr-2 inline-flex items-center justify-center bg-primary text-primary-content rounded-full flex-shrink-0">
+                <p className="flex items-center text-base-content mb-2">
+                  <span className="w-4 h-4 mr-2 inline-flex items-center justify-center bg-primary text-base-content rounded-full flex-shrink-0">
                     <svg
                       fill="none"
                       stroke="currentColor"
@@ -222,8 +222,8 @@ export class Pricing1 extends Component {
                   </span>
                   Vexillologist pitchfork
                 </p>
-                <p className="flex items-center text-primary-content mb-2">
-                  <span className="w-4 h-4 mr-2 inline-flex items-center justify-center bg-primary text-primary-content rounded-full flex-shrink-0">
+                <p className="flex items-center text-base-content mb-2">
+                  <span className="w-4 h-4 mr-2 inline-flex items-center justify-center bg-primary text-base-content rounded-full flex-shrink-0">
                     <svg
                       fill="none"
                       stroke="currentColor"
@@ -238,8 +238,8 @@ export class Pricing1 extends Component {
                   </span>
                   Tumeric plaid portland
                 </p>
-                <p className="flex items-center text-primary-content mb-2">
-                  <span className="w-4 h-4 mr-2 inline-flex items-center justify-center bg-primary text-primary-content rounded-full flex-shrink-0">
+                <p className="flex items-center text-base-content mb-2">
+                  <span className="w-4 h-4 mr-2 inline-flex items-center justify-center bg-primary text-base-content rounded-full flex-shrink-0">
                     <svg
                       fill="none"
                       stroke="currentColor"
@@ -254,8 +254,8 @@ export class Pricing1 extends Component {
                   </span>
                   Hexagon neutra unicorn
                 </p>
-                <p className="flex items-center text-primary-content mb-2">
-                  <span className="w-4 h-4 mr-2 inline-flex items-center justify-center bg-primary text-primary-content rounded-full flex-shrink-0">
+                <p className="flex items-center text-base-content mb-2">
+                  <span className="w-4 h-4 mr-2 inline-flex items-center justify-center bg-primary text-base-content rounded-full flex-shrink-0">
                     <svg
                       fill="none"
                       stroke="currentColor"
@@ -270,8 +270,8 @@ export class Pricing1 extends Component {
                   </span>
                   Vexillologist pitchfork
                 </p>
-                <p className="flex items-center text-primary-content mb-6">
-                  <span className="w-4 h-4 mr-2 inline-flex items-center justify-center bg-primary text-primary-content rounded-full flex-shrink-0">
+                <p className="flex items-center text-base-content mb-6">
+                  <span className="w-4 h-4 mr-2 inline-flex items-center justify-center bg-primary text-base-content rounded-full flex-shrink-0">
                     <svg
                       fill="none"
                       stroke="currentColor"

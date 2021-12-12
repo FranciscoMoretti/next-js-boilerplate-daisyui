@@ -29,7 +29,7 @@ export class Pricing1 extends Component {
                     <svg
                       fill="none"
                       stroke="currentColor"
-                      stroke-linecap="round"
+                      strokeLinecap="round"
                       stroke-linejoin="round"
                       stroke-width="2.5"
                       className="w-3 h-3"
@@ -45,7 +45,7 @@ export class Pricing1 extends Component {
                     <svg
                       fill="none"
                       stroke="currentColor"
-                      stroke-linecap="round"
+                      strokeLinecap="round"
                       stroke-linejoin="round"
                       stroke-width="2.5"
                       className="w-3 h-3"
@@ -61,7 +61,7 @@ export class Pricing1 extends Component {
                     <svg
                       fill="none"
                       stroke="currentColor"
-                      stroke-linecap="round"
+                      strokeLinecap="round"
                       stroke-linejoin="round"
                       stroke-width="2.5"
                       className="w-3 h-3"
@@ -77,7 +77,7 @@ export class Pricing1 extends Component {
                   <svg
                     fill="none"
                     stroke="currentColor"
-                    stroke-linecap="round"
+                    strokeLinecap="round"
                     stroke-linejoin="round"
                     stroke-width="2"
                     className="w-4 h-4 ml-auto"
@@ -104,7 +104,7 @@ export class Pricing1 extends Component {
                     <svg
                       fill="none"
                       stroke="currentColor"
-                      stroke-linecap="round"
+                      strokeLinecap="round"
                       stroke-linejoin="round"
                       stroke-width="2.5"
                       className="w-3 h-3"
@@ -120,7 +120,7 @@ export class Pricing1 extends Component {
                     <svg
                       fill="none"
                       stroke="currentColor"
-                      stroke-linecap="round"
+                      strokeLinecap="round"
                       stroke-linejoin="round"
                       stroke-width="2.5"
                       className="w-3 h-3"
@@ -136,7 +136,7 @@ export class Pricing1 extends Component {
                     <svg
                       fill="none"
                       stroke="currentColor"
-                      stroke-linecap="round"
+                      strokeLinecap="round"
                       stroke-linejoin="round"
                       stroke-width="2.5"
                       className="w-3 h-3"
@@ -152,7 +152,7 @@ export class Pricing1 extends Component {
                     <svg
                       fill="none"
                       stroke="currentColor"
-                      stroke-linecap="round"
+                      strokeLinecap="round"
                       stroke-linejoin="round"
                       stroke-width="2.5"
                       className="w-3 h-3"
@@ -168,7 +168,7 @@ export class Pricing1 extends Component {
                     <svg
                       fill="none"
                       stroke="currentColor"
-                      stroke-linecap="round"
+                      strokeLinecap="round"
                       stroke-linejoin="round"
                       stroke-width="2.5"
                       className="w-3 h-3"
@@ -184,7 +184,7 @@ export class Pricing1 extends Component {
                   <svg
                     fill="none"
                     stroke="currentColor"
-                    stroke-linecap="round"
+                    strokeLinecap="round"
                     stroke-linejoin="round"
                     stroke-width="2"
                     className="w-4 h-4 ml-auto"
@@ -211,7 +211,7 @@ export class Pricing1 extends Component {
                     <svg
                       fill="none"
                       stroke="currentColor"
-                      stroke-linecap="round"
+                      strokeLinecap="round"
                       stroke-linejoin="round"
                       stroke-width="2.5"
                       className="w-3 h-3"
@@ -227,7 +227,7 @@ export class Pricing1 extends Component {
                     <svg
                       fill="none"
                       stroke="currentColor"
-                      stroke-linecap="round"
+                      strokeLinecap="round"
                       stroke-linejoin="round"
                       stroke-width="2.5"
                       className="w-3 h-3"
@@ -243,7 +243,7 @@ export class Pricing1 extends Component {
                     <svg
                       fill="none"
                       stroke="currentColor"
-                      stroke-linecap="round"
+                      strokeLinecap="round"
                       stroke-linejoin="round"
                       stroke-width="2.5"
                       className="w-3 h-3"
@@ -259,7 +259,7 @@ export class Pricing1 extends Component {
                     <svg
                       fill="none"
                       stroke="currentColor"
-                      stroke-linecap="round"
+                      strokeLinecap="round"
                       stroke-linejoin="round"
                       stroke-width="2.5"
                       className="w-3 h-3"
@@ -275,7 +275,7 @@ export class Pricing1 extends Component {
                     <svg
                       fill="none"
                       stroke="currentColor"
-                      stroke-linecap="round"
+                      strokeLinecap="round"
                       stroke-linejoin="round"
                       stroke-width="2.5"
                       className="w-3 h-3"
@@ -291,7 +291,7 @@ export class Pricing1 extends Component {
                   <svg
                     fill="none"
                     stroke="currentColor"
-                    stroke-linecap="round"
+                    strokeLinecap="round"
                     stroke-linejoin="round"
                     stroke-width="2"
                     className="w-4 h-4 ml-auto"

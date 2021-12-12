@@ -44,7 +44,7 @@ export class Feature2 extends Component {
                   <svg
                     fill="none"
                     stroke="currentColor"
-                    stroke-linecap="round"
+                    strokeLinecap="round"
                     stroke-linejoin="round"
                     stroke-width="2"
                     className="w-4 h-4 ml-2"
@@ -73,7 +73,7 @@ export class Feature2 extends Component {
                   <svg
                     fill="none"
                     stroke="currentColor"
-                    stroke-linecap="round"
+                    strokeLinecap="round"
                     stroke-linejoin="round"
                     stroke-width="2"
                     className="w-4 h-4 ml-2"
@@ -102,7 +102,7 @@ export class Feature2 extends Component {
                   <svg
                     fill="none"
                     stroke="currentColor"
-                    stroke-linecap="round"
+                    strokeLinecap="round"
                     stroke-linejoin="round"
                     stroke-width="2"
                     className="w-4 h-4 ml-2"

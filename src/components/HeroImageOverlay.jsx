@@ -10,7 +10,6 @@ export default class HeroImageOverlay extends Component {
           <Image
             class="hero-overlay opacity-80"
             alt="Mountains"
-            pJ_DCj9KswI
             // src="https://source.unsplash.com/MD_ha01Bk7c"
             src="https://source.unsplash.com/PFUqfNsorJM"
             layout="fill"

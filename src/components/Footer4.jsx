@@ -13,8 +13,8 @@ export class Footer4 extends Component {
               fill="none"
               stroke="currentColor"
               strokeLinecap="round"
-              stroke-linejoin="round"
-              stroke-width="2"
+              strokeLinejoin="round"
+              strokeWidth="2"
               className="w-10 h-10 text-primary-content p-2 bg-primary rounded-full"
               viewBox="0 0 24 24"
             >
@@ -38,8 +38,8 @@ export class Footer4 extends Component {
               <svg
                 fill="currentColor"
                 strokeLinecap="round"
-                stroke-linejoin="round"
-                stroke-width="2"
+                strokeLinejoin="round"
+                strokeWidth="2"
                 className="w-5 h-5"
                 viewBox="0 0 24 24"
               >
@@ -50,8 +50,8 @@ export class Footer4 extends Component {
               <svg
                 fill="currentColor"
                 strokeLinecap="round"
-                stroke-linejoin="round"
-                stroke-width="2"
+                strokeLinejoin="round"
+                strokeWidth="2"
                 className="w-5 h-5"
                 viewBox="0 0 24 24"
               >
@@ -63,8 +63,8 @@ export class Footer4 extends Component {
                 fill="none"
                 stroke="currentColor"
                 strokeLinecap="round"
-                stroke-linejoin="round"
-                stroke-width="2"
+                strokeLinejoin="round"
+                strokeWidth="2"
                 className="w-5 h-5"
                 viewBox="0 0 24 24"
               >
@@ -77,8 +77,8 @@ export class Footer4 extends Component {
                 fill="currentColor"
                 stroke="currentColor"
                 strokeLinecap="round"
-                stroke-linejoin="round"
-                stroke-width="0"
+                strokeLinejoin="round"
+                strokeWidth="0"
                 className="w-5 h-5"
                 viewBox="0 0 24 24"
               >

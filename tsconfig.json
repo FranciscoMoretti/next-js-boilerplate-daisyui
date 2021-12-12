@@ -41,6 +41,6 @@
     "**/*.ts",
     "**/*.tsx",
     "src/pages/landing.js",
-    "src/pages/_app.jsx"
+    "src/pages/_app.tsx"
   ]
 }

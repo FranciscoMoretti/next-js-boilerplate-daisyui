@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import SectionContainer from "../components/SectionContainer";
 
 interface CtaDaisyProps {
   variant:
@@ -23,23 +22,22 @@ interface CtaDaisyProps {
 export class CtaDaisy extends Component<CtaDaisyProps, {}> {
   render() {
     const {
-      title = "Slow-carb next level shoindxgoitch ethical authentic, scenester sriracha forage.",
+      title = "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eveniet, perferendis. \
+        Dignissimos quas dolor consectetur animi.",
       variant = "primary",
       buttonText = "Button",
       buttonShape = "btn-lg",
     } = this.props;
 
     return (
-      <SectionContainer>
-        <div className="lg:w-2/3 flex flex-col sm:flex-row items-start mx-auto">
-          <p className="flex-grow sm:pr-16 pb-5 sm:pb-0 text-2xl font-medium text-base-content">
-            {title}
-          </p>
-          <button className={`btn btn-${variant} ${buttonShape}`}>
-            {buttonText}
-          </button>
-        </div>
-      </SectionContainer>
+      <div className="lg:w-2/3 flex flex-col sm:flex-row items-start mx-auto">
+        <p className="flex-grow sm:pr-16 pb-5 sm:pb-0 text-2xl font-medium text-base-content">
+          {title}
+        </p>
+        <button className={`btn btn-${variant} ${buttonShape}`}>
+          {buttonText}
+        </button>
+      </div>
     );
   }
 }

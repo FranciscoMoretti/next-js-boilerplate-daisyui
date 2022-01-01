@@ -5,7 +5,7 @@
     "mikestead.dotenv",
     "csstools.postcss",
     "blanu.vscode-styled-jsx",
-    "msjsdiag.debugger-for-chrome",
+    "ms-edgedevtools.vscode-edge-devtools",
     "bradlc.vscode-tailwindcss"
   ]
 }
